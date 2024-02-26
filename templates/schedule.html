@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .container {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Schedule</h1>
+        <div class="row">
+            <div class="col-md-6">
+                <p><strong>Date:</strong> {{ date }}</p>
+                <p><strong>Stage:</strong> {{ stage }}</p>
+            </div>
+            <div class="col-md-6">
+                <h3>Times:</h3>
+                <ul class="list-group">
+                    {% for time in times %}
+                        <li class="list-group-item">{{ time.start_time }} - {{ time.end_time }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
