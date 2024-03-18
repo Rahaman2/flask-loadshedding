@@ -1,1 +1,42 @@
-Baragwanath, Baragwanath Academic Hospital, Bertrams, Bezuidenhout Valley, Bruma, Bushkoppies, Cyrildene, De Wetshof, Devland, Doornkop, Eldorado Estate, Eldorado Park, Eldorado Park Ext, Eldorado Park Ext 1, 3, Eldorado Park South, Ellias Motswaledi, Freedom Park, Goldev, Goudkoppies, Kensington, Klipriviersoog, Klipriviersoog Estate, Klipspruit West, Kliptown, Kliptown RDP, Lorentzville, Malvern, Nancefield, Nancefield Ext, Nancefield Industria, Observatory, Oliefantsvlei, Orlando Ekhaya, Race Course, Reynolds View, SAP 13, Santa, Slovo Park, Soweto Military Base, Troyville, UJ Soweto Campus
+Baragwanath
+Baragwanath Academic Hospital
+Bertrams
+Bezuidenhout Valley
+Bruma
+Bushkoppies
+Cyrildene
+De Wetshof
+Devland
+Doornkop
+Eldorado Estate
+Eldorado Park
+Eldorado Park Ext
+Eldorado Park Ext 1, 3
+ Eldorado Park South
+Ellias Motswaledi
+Freedom Park
+Goldev
+Goudkoppies
+Kensington
+Klipriviersoog
+Klipriviersoog Estate
+Klipspruit West
+Kliptown
+Kliptown RDP
+Lorentzville
+Malvern
+Nancefield
+Nancefield Ext
+Nancefield 
+Industria
+Observatory
+Oliefantsvlei
+Orlando Ekhaya
+Race Course
+Reynolds View
+SAP 13
+Santa
+Slovo Park
+Soweto Military Base
+Troyville
+UJ Soweto Campus
